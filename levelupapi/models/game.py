@@ -1,7 +1,6 @@
 from operator import mod
 from django.db import models
 from django.contrib.auth.models import User
-
 from levelupapi.models.game_type import Game_Type
 from levelupapi.models.gamer import Gamer
 
